@@ -18,7 +18,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: site/content
+  path: content
   label: Content Creation
   create: all
   match: "**/*"
