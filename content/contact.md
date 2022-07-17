@@ -14,4 +14,4 @@ This is an example of a custom shortcode that you can put right into your conten
 
 DO THIS to learn Actions
 
-lave save 2:39pm
+last save 2:39pm
