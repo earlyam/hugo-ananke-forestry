@@ -12,4 +12,4 @@ This is an example of a custom shortcode that you can put right into your conten
 
 {{< form-contact action="https://example.com"  >}}
 
-DO THIS
+DO THIS to learn Actions
