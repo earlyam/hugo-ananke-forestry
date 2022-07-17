@@ -1,6 +1,6 @@
-baseURL: "https://hugo-ananke-forestry-cm.netlify.com/"
+baseURL: "/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Hugo Ananke Forestry Starter2"
 
 module:
   imports:
