@@ -7,10 +7,10 @@ fields:
   config:
     required: false
   label: title
-- name: url
+- name: subtitle
   type: text
   config:
     required: false
-  label: url
+  label: subtitle
 pages:
 - site/content/grower-resources1-documents.md
