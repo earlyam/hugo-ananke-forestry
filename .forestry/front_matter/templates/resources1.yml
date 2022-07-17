@@ -1,4 +1,14 @@
 ---
 label: resources1
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
