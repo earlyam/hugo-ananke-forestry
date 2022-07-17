@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: url
+pages:
+- site/content/grower-resources1-documents.md
