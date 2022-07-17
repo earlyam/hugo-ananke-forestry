@@ -12,5 +12,3 @@ fields:
   config:
     required: false
   label: subtitle
-pages:
-- site/content/grower-resources1-documents.md
